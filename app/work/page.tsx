@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Complete Design & Development Portfolio | All Work | Aenfinite",
   description: "Explore Aenfinite",
   keywords: "portfolio, design portfolio, web design portfolio, branding portfolio, case studies, client work, creative projects, Aenfinite portfolio",
-  alternates: { canonical: "https://aenfinite.boston/work/", languages: {"x-default":"https://aenfinite.boston/work/","en":"https://aenfinite.boston/work/","es":"https://aenfinite.boston/es/work/","fr":"https://aenfinite.boston/fr/work/","de":"https://aenfinite.boston/de/work/","it":"https://aenfinite.boston/it/work/","ar":"https://aenfinite.boston/ar/work/","pt":"https://aenfinite.boston/pt/work/","zh":"https://aenfinite.boston/zh/work/","hi":"https://aenfinite.boston/hi/work/","nl":"https://aenfinite.boston/nl/work/","ja":"https://aenfinite.boston/ja/work/","ko":"https://aenfinite.boston/ko/work/"} },
+  alternates: { canonical: "https://aenfinite.boston/work/", languages: {"x-default":"https://aenfinite.boston/work/","en":"https://aenfinite.boston/work/"} },
   openGraph: {"title":"Complete Design & Development Portfolio | All Work | Aenfinite","description":"Explore Aenfinite","url":"https://aenfinite.boston/work/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.boston/wp-content/themes/aenfinite.boston/images/portfolio-hero.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Complete Design & Development Portfolio | All Work | Aenfinite","description":"Explore Aenfinite","images":["https://aenfinite.boston/wp-content/themes/aenfinite.boston/images/portfolio-hero.jpg"]},
   robots: { index: true, follow: true },

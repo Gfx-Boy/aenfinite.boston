@@ -1,11 +1,11 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Partner with Aenfinite | White Label & Agency Partnership Opportunities",
-  description: "Partner with Aenfinite â€” a creative digital agency based in Boston. Explore our white label, referral, and strategic partnership opportunities to expand your services with expert design, branding, and web development solutions.",
+  description: "Partner with Aenfinite — a creative digital agency based in Boston. Explore our white label, referral, and strategic partnership opportunities to expand your services with expert design, branding, and web development solutions.",
   keywords: "agency partnership, white label partnership, referral program, strategic partnership, agency collaboration, Aenfinite partner",
-  alternates: { canonical: "https://aenfinite.boston/agency/partner-with-us/", languages: {"x-default":"https://aenfinite.boston/agency/partner-with-us/","en":"https://aenfinite.boston/agency/partner-with-us/","es":"https://aenfinite.boston/es/agency/partner-with-us/","fr":"https://aenfinite.boston/fr/agency/partner-with-us/","de":"https://aenfinite.boston/de/agency/partner-with-us/","it":"https://aenfinite.boston/it/agency/partner-with-us/","ar":"https://aenfinite.boston/ar/agency/partner-with-us/","pt":"https://aenfinite.boston/pt/agency/partner-with-us/","zh":"https://aenfinite.boston/zh/agency/partner-with-us/","hi":"https://aenfinite.boston/hi/agency/partner-with-us/","nl":"https://aenfinite.boston/nl/agency/partner-with-us/","ja":"https://aenfinite.boston/ja/agency/partner-with-us/","ko":"https://aenfinite.boston/ko/agency/partner-with-us/"} },
+  alternates: { canonical: "https://aenfinite.boston/agency/partner-with-us/", languages: {"x-default":"https://aenfinite.boston/agency/partner-with-us/","en":"https://aenfinite.boston/agency/partner-with-us/"} },
   openGraph: {"title":"Partner with Aenfinite | White Label & Agency Partnership Opportunities","description":"Collaborate with Aenfinite to scale your services through white label and referral partnerships. We help agencies deliver creative, web, and digital solutions under their own brand.","url":"https://aenfinite.boston/agency/partner-with-us/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.boston/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Partner with Aenfinite | Expand Your Agency","description":"Join forces with Aenfinite for white label, referral, and strategic partnerships. Deliver world-class design and development solutions under your brand.","images":["https://aenfinite.boston/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
@@ -1926,7 +1926,7 @@ export default function Page() {
   "@type": "WebPage",
   "url": "https://aenfinite.boston/agency/partner-with-us/",
   "name": "Partner with Aenfinite | White Label & Agency Partnership Opportunities",
-  "description": "Partner with Aenfinite to expand your agencyâ€™s offerings with white label, referral, and strategic partnership programs. We provide professional design, development, and digital solutions from Boston, Massachusetts.",
+  "description": "Partner with Aenfinite to expand your agency’s offerings with white label, referral, and strategic partnership programs. We provide professional design, development, and digital solutions from Boston, Massachusetts.",
   "publisher": {
     "@type": "Organization",
     "name": "Aenfinite",

@@ -55,17 +55,6 @@ export default function RootLayout({
         {/* HREFLANG TAGS - Global language alternates */}
         <link rel="alternate" hrefLang="x-default" href="https://aenfinite.boston/" />
         <link rel="alternate" hrefLang="en" href="https://aenfinite.boston/" />
-        <link rel="alternate" hrefLang="es" href="https://aenfinite.boston/es/" />
-        <link rel="alternate" hrefLang="fr" href="https://aenfinite.boston/fr/" />
-        <link rel="alternate" hrefLang="de" href="https://aenfinite.boston/de/" />
-        <link rel="alternate" hrefLang="it" href="https://aenfinite.boston/it/" />
-        <link rel="alternate" hrefLang="ar" href="https://aenfinite.boston/ar/" />
-        <link rel="alternate" hrefLang="pt" href="https://aenfinite.boston/pt/" />
-        <link rel="alternate" hrefLang="zh" href="https://aenfinite.boston/zh/" />
-        <link rel="alternate" hrefLang="hi" href="https://aenfinite.boston/hi/" />
-        <link rel="alternate" hrefLang="nl" href="https://aenfinite.boston/nl/" />
-        <link rel="alternate" hrefLang="ja" href="https://aenfinite.boston/ja/" />
-        <link rel="alternate" hrefLang="ko" href="https://aenfinite.boston/ko/" />
         {/* END HREFLANG */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />

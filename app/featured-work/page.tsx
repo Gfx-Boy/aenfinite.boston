@@ -2814,10 +2814,10 @@ export default function Page() {
       "url": "https://aenfinite.boston/",
       "logo": "https://aenfinite.boston/wp-content/uploads/2025/01/aenfinite-logo.png",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://twitter.com/aenfinitee",
-        "https://www.instagram.com/aenfinite/"
-      ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
     },
     {
       "@type": "WebSite",

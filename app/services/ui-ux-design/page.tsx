@@ -2573,11 +2573,10 @@ export default function Page() {
       "url": "https://aenfinite.boston/",
       "logo": "https://aenfinite.boston/wp-content/themes/aenfinite.boston/images/logo.png",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://twitter.com/aenfinitee",
-        "https://www.instagram.com/aenfinite/",
-        "https://www.linkedin.com/company/aenfinite/"
-      ],
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ],
       "contactPoint": [{
         "@type": "ContactPoint",
         "email": "contact@aenfinite.boston",

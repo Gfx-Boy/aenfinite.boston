@@ -1843,10 +1843,10 @@ export default function Page() {
       "url": "https://aenfinite.boston/wp-content/themes/aenfinite.boston/images/logo.png"
     },
     "sameAs": [
-      "https://www.facebook.com/aenfinite/",
-      "https://twitter.com/aenfinitee",
-      "https://www.instagram.com/aenfinite/"
-    ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
   },
   "mainEntity": {
     "@type": "Offer",

@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: { absolute: "Aenfinite® | Boston Digital Innovation Agency" },
+  title: { absolute: "Aenfinite® | Boston Web, App & AI Automation Agency" },
   description: "Boston-based digital innovation agency for AI automation, custom software, web & app development, SEO & branding. Serving the US & Canada.",
   keywords: "digital agency Boston, Boston web design, Boston software development, AI agency Boston, New England digital agency, digital agency, AI agency, AI automation services, software development agency, SEO agency, web design agency, branding agency, digital marketing agency Boston, UI UX design, custom web development, SEO services, app development, e-commerce development, digital transformation, Aenfinite",
   alternates: { canonical: "https://aenfinite.boston/", languages: {"x-default":"https://aenfinite.boston/","en":"https://aenfinite.boston/"} },
